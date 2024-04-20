@@ -32,4 +32,18 @@
 [More Solar Panels](https://www.curseforge.com/minecraft/mc-mods/mekanism-moresolarpanels)
 
 ## ギャラリー
-![Advanced Ender Generator](images/Advanced Ender Generator.png)
+![Ender Generator](https://github.com/yukkukomei/ExponentialPower-CustomRecipes/assets/116338499/6db944e2-28c8-49f5-841d-c8281ac8f6bd)
+![Ender Storage](https://github.com/yukkukomei/ExponentialPower-CustomRecipes/assets/116338499/65d5421e-f76c-4067-9ee3-1608756b2ecf)
+77個のメカニカルクラフターでクラフト
+
+![Advanced Ender Generator](https://github.com/yukkukomei/ExponentialPower-CustomRecipes/assets/116338499/17d46249-443e-4735-a2af-1e8dcb482c87)
+![Advanced Ender Storage](https://github.com/yukkukomei/ExponentialPower-CustomRecipes/assets/116338499/f54d6c21-1104-4120-94b5-1103bb84c870)
+Advanced系は通常クラフトだけど圧縮レシピ＋Avaritia
+
+![Ender Cell](https://github.com/yukkukomei/ExponentialPower-CustomRecipes/assets/116338499/c6896e3d-d1c5-442f-960e-38d59ea96e31)
+Chaotic Coreを反陽子核合成機にかけてEnder Cell
+
+### おまけレシピ
+![Awakened Draconium Ingot](https://github.com/yukkukomei/ExponentialPower-CustomRecipes/assets/116338499/48ef2053-477f-4c6f-bfa4-7ee7759bb5b2)
+![Large Chaos Fragment](https://github.com/yukkukomei/ExponentialPower-CustomRecipes/assets/116338499/55d7593c-a8b6-4c86-996c-686d242d9aeb)
+Awakened Draconium IngotとLarge Chaos Fragmentの入手が少し楽になるかもしれない
