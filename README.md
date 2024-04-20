@@ -32,3 +32,4 @@
 [More Solar Panels](https://www.curseforge.com/minecraft/mc-mods/mekanism-moresolarpanels)
 
 ## ギャラリー
+![Advanced Ender Generator](images/Advanced Ender Generator.png)
